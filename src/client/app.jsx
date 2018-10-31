@@ -22,3 +22,4 @@ ReactDOM.render(
   , document.querySelector('.app'),
 );
 
+/* test */
